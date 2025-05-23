@@ -1,5 +1,4 @@
 ## 👋 About Me
-
 I’m a full-stack and cloud-focused software engineer with a strong foundation in backend systems, DevOps, and machine learning. With experience in both enterprise and startup environments, I specialize in building scalable, production-grade systems using modern cloud and data technologies.
 
 ---
@@ -86,3 +85,4 @@ Currently diving deep into:
 Thank you for visiting my profile!  
 Feel free to connect, collaborate, or reach out for projects, mentorship, or tech chats. 🙌
 
+ <img alt="Bindu's Profile Views" src="https://komarev.com/ghpvc/?username=bindumalavika&style=flat-square&color=brightgreen&label=Visitors"/>
