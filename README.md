@@ -1,12 +1,3 @@
-# 👩‍💻 Bindu Malavika Koyalkar
-
-🎓 **Master of Applied Computer Science**  
-Dalhousie University, Halifax, Canada (Sep 2024 – Dec 2025)  
-📫 Email: bindu.koyalkar@dal.ca | 📞 +1 (437) 669-2717  
-🔗 [LinkedIn](https://linkedin.com/in/bindu-malavika-koyalkar) | 🐙 GitHub: [@bindumalavika](https://github.com/bindumalavika)
-
----
-
 ## 👋 About Me
 
 I’m a full-stack and cloud-focused software engineer with a strong foundation in backend systems, DevOps, and machine learning. With experience in both enterprise and startup environments, I specialize in building scalable, production-grade systems using modern cloud and data technologies.
